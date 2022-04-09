@@ -1,0 +1,21 @@
+.clase {
+    color: black;
+    background-color: #ffc0cb;
+    font-size: 30px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.copado {
+    font-size: 40px;
+}
+
+#uno {
+    font-size: 50px;
+    color: #0000ff;
+}
+
+#dos{
+    background-color: #adff2f;
+    font-weight: bold;
+    font-size: 35px;
+}
